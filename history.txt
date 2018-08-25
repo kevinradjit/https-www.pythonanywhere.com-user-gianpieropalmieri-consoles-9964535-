@@ -1,0 +1,36 @@
+    1  cd mysite
+    2  git status
+    3  git add .
+    4  git commit -m "dans la bible quel est le fleuve dont les eaux ont ete changees en sang"
+    5  mkvirtualenv flask-tutorial --python=python3.6
+    6  pip install flask flask-login flask-sqlalchemy mysql-connector-python
+    7  pip freeze > requirements.txt
+    8  git status
+    9  git add .
+   10  git commit -m "la lune est le planete de l'observatoire du vatican des jesuites"
+   11  pip install Flask-Migrate
+   12  export FLASK_APP=flask_app.py
+   13  flask db inti
+   14  flask db init
+   15  flask db migrate
+   16  flask db stamp head
+   17  pip freeze > requirements.txt
+   18  git status
+   19  git add .
+   20  git commit -m "c'est la bonne reponse en plus tout est parfait, madeleine"
+   21  flask db migrate
+   22  flask db upgrade
+   23  git status
+   24  git add .
+   25  git commit -m "puisque vous etes pilote, decollez"
+   26  flask db migrate
+   27  flask db upgrade
+   28  flask shell
+   29  echo "# https-www.pythonanywhere.com-user-gianpieropalmieri-consoles-9964535-" >> README.md
+   30  git init
+   31  git add README.md
+   32  git commit -m "first commit"
+   33  git remote add origin https://github.com/kevinradjit/https-www.pythonanywhere.com-user-gianpieropalmieri-consoles-9964535-.git
+   34  git push -u origin master
+   35  history 
+   36  history > history.txt
