@@ -1,0 +1,20 @@
+   23  git status
+   24  git add .
+   25  git commit -m "puisque vous etes pilote, decollez"
+   26  flask db migrate
+   27  flask db upgrade
+   28  flask shell
+   29  echo "# https-www.pythonanywhere.com-user-gianpieropalmieri-consoles-9964535-" >> README.md
+   30  git init
+   31  git add README.md
+   32  git commit -m "first commit"
+   33  git remote add origin https://github.com/kevinradjit/https-www.pythonanywhere.com-user-gianpieropalmieri-consoles-9964535-.git
+   34  git push -u origin master
+   35  history 
+   36  history > history.txt
+   37  git status
+   38  git add .
+   39  git commit -m "commit origin"
+   40  history 20 
+   41  history 20> history20.txt
+   42  history 20 > history20.txt
